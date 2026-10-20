@@ -5,5 +5,6 @@
   "category": "CMS",
   "image": "https://raw.githubusercontent.com/two-workspaces/directus/main/icon.svg",
   "card_desc": "Directus: turn a Postgres database into a headless CMS with REST and GraphQL APIs and a no-code admin app. Comes with PostGIS, file uploads in a Railway bucket and an admin account ready at first boot.",
-  "id": "72a793c3-3469-4601-b72c-6b6308b6f297"
+  "id": "72a793c3-3469-4601-b72c-6b6308b6f297",
+  "published": true
 }
