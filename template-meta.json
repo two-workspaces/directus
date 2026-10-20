@@ -1,0 +1,8 @@
+{
+  "name": "Directus | Headless CMS and Instant REST/GraphQL API on Postgres",
+  "short_name": "Directus Production",
+  "description": "Directus 12 headless CMS + PostGIS + bucket, admin ready, no Redis bill",
+  "category": "CMS",
+  "image": "https://raw.githubusercontent.com/two-workspaces/directus/main/icon.svg",
+  "card_desc": "Directus: turn a Postgres database into a headless CMS with REST and GraphQL APIs and a no-code admin app. Comes with PostGIS, file uploads in a Railway bucket and an admin account ready at first boot."
+}
