@@ -11,7 +11,7 @@
       "build": {},
       "deploy": {
         "startCommand": null,
-        "healthcheckPath": "/server/health",
+        "healthcheckPath": "/server/ping",
         "restartPolicyType": "ON_FAILURE",
         "restartPolicyMaxRetries": 10
       },
